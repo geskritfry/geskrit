@@ -5,7 +5,7 @@ Aufgepasst: Begriffe wie Kapitalistin oder Profit sind oft moralisch aufgeladen,
 
 Man hört es oft: Die Welt wäre ein besserer Ort, wenn die Leute nur richtig, weil bewusst, konsumieren würden. Egal ob immer mehr Lebensmittel mit viel kritisierten Technologien (Stichwort Genmanipulation) produziert werden, Produkte unter verabscheuungswürdigen Bedingungen für Mensch und Tier entstehen oder eigentlich noch brauchbare Sachen einfach weggeworfen werden – für Kritikerinnen des Konsums liegt die Lösung nahe. Sie selbst und alle anderen sollen ethisch korrekt konsumieren. Dieser ethische Konsum kann dabei unterschiedlichste Formen annehmen. Kritische Konsumentinnen bevorzugen FairTrade Produkten, konsumieren ausschließlich regionale und/oder biologische Güter oder boykottieren gleich alle Waren eines Unternehmens.
 
-Dabei sehen wir ein Problem: Veränderter Konsum führt gar nicht zur Abschaffung der ganzen Misstände, diese haben ihren Grund woanders. Damit diese falschen Vorstellungen über den Konsum aus den Köpfen der Leute verschwinden und wir uns an die Beseitigung der wirklichen Gründe der Misstände machen können, haben wir diesen Text geschrieben.
+Dabei sehen wir ein Problem: Veränderter Konsum führt gar nicht zur Abschaffung der ganzen Misstände, diese haben ihren Grund woanders. Damit diese falschen Vorstellungen über den Konsum aus den Köpfen der Leute verschwinden und wir uns an die Beseitigung der wirklichen Gründe [^wirkliche_gruende] der Misstände machen können, haben wir diesen Text geschrieben.
 
 ### Konsum: Was soll das sein?
 
@@ -113,6 +113,7 @@ Weiters haben wir uns auch im Text [Konsum als Persönlichkeitspflege](https://g
 
 
 ### Fußnoten:
-
+[^wirkliche_gruende]: Einige von Euch werden sicher einwerfen: *Wahrheit gibt es doch gar nicht. Es gibt doch unterschiedlichste Perspektiven.* Wir vertreten die Position, dass nicht jede Meinung gleich richtig ist. Es gibt richtige und falsche Erklärungen für Phänomene in dieser Welt. Mehr zu diesem Thema könnt Ihr in unserem Text [Jedem seine eigene Meinung?](https://geskrit.wordpress.com/2015/12/22/jedem-seine-eigne-meinung/) auf unserer Website lesen.
+ 
 [^dienstleistungen]: Im Text wird ab jetzt nur noch von Produkten gesprochen, Dienstleistungen sind aber immer mitgemeint. Wenn ihr meint dass ein Schluss über Produkte den wir ziehen auf Dienstleistungen nicht zutrifft, meldet euch.
 [^ressourcen]: Klar, diese Unternehmen könnten auch draufkommen dass es keinen Gewinn mit Fisch mehr gibt wenn es keinen Fisch mehr gibt. Allerdings ist das Bedürfnis nach Fisch selbst für das Unternehmen ja nur Mittel - gibt es diesen nicht mehr sucht man sich halt mit dem Geld das man erlöst hat ein anderes Produkt aus mit dem man Geld machen kann. Andererseits gibt es ja auch andere Fischereiunternehmen, von denen man getrost annehmen kann dass sie unverfangen weiterfischen wenn man selber Zwecks des Bestandserhalts ein wenig zurücksteckt. Also ist wieder jeder Fisch den man selber fangt und andere nicht ein Vorteil denen gegenüber, der einem dann vielleicht wenn die Bestände wirklich zurückgehen das Überleben sichert.
