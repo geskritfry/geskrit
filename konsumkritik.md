@@ -53,25 +53,30 @@ Da die Konsumkritikerinnen den Zweck, für den hier produziert wird, nämlich au
 
 Zum Schluss noch ein Sprung an den Anfang: In der Einleitung haben wir versprochen, die wirklichen Gründe für all die Übel zu nennen, welche manchen Menschen so sauer aufstoßen, dass sie darüber zu Konsumkritikerinnen werden. Diese Gründe liegen in den zwei Widersprüchen, die wir herausgearbeitet haben:
     
-Da Unternehmen Interesse an einem hohen Profit haben, ergibt sich daraus für die Menschen die in diesen arbeiten, ein möglichst geringer Lohn. Weiters sind ihre Arbeitsplätze so eingerichtet, dass sie für Stimmung, Gesundheit und oft das Leben eine Gefahr darstellen.
-Da Unternehmen Interesse an einem hohen Profit haben, ergibt sich daraus für die Umwelt, die als Grundlage und Stoff der Produktion dient, die Zerstörung: Böden und Gewässer werden verseucht, weil die Entsorgung in ihnen billiger ist als eine umweltfreundlichere. Tiere werden möglichst billig, also grausam gehalten.
+  * Da Unternehmen Interesse an einem hohen Profit haben, ergibt sich daraus für die Menschen die in diesen arbeiten, ein möglichst geringer Lohn. 
+  * Weiters sind ihre Arbeitsplätze so eingerichtet, dass sie für Stimmung, Gesundheit und oft das Leben eine Gefahr darstellen.
+  * Da Unternehmen Interesse an einem hohen Profit haben, ergibt sich daraus für die Umwelt, die als Grundlage und Stoff der Produktion dient, die Zerstörung: Böden und Gewässer werden verseucht, weil die Entsorgung in ihnen billiger ist als eine umweltfreundlichere. 
+  * Tiere werden möglichst billig, also grausam gehalten.
 
 Diese Übel werden jedoch nicht durch Kritik an der Art und Weise wie Menschen konsumieren aus der Welt geschafft. Das Appellieren an ethischen Konsum verändert nichts an den herrschenden Verhältnissen. Auch unsere vorgetragene Kritik am Konsum im Kapitalismus, schafft dessen Übel nicht ab. Nimmt man sie jedoch ernst und zieht aus ihr die praktischen Konsequenzen, ergibt sich ein ganz anderes Programm als Reformen, die den Kapitalismus auch nicht sympathischer und menschenfreundlicher machen: Notwendig ist das Abschaffen einer Wirtschaftsweise, die sich um Geldvermehrung dreht und das Schaffen einer, in der es um die Bedürfnisbefriedigung der Menschen geht.
 
 Falls bei euch ein schlechtes Gefühl im Magen übrigbleibt, weil:
--   ihr doch ein paar gute Argumente für ethischen Konsum kennt,
--   ihr eine Spielart von ethischem Konsum kennt die ihr gut findet und die bei uns nicht vorkommt,
--   ihr sonst irgendwas kennt das für die Thematik wichtig ist aber hier nicht zu finden ist,
+    
+
+* ihr doch ein paar gute Argumente für ethischen Konsum kennt,
+* ihr eine Spielart von ethischem Konsum kennt die ihr gut findet und die bei uns nicht vorkommt,
+* ihr sonst irgendwas kennt das für die Thematik wichtig ist aber hier nicht zu finden ist,
 
 dann [meldet euch](mailto:geskrit@riseup.net). Für Diskussionen zu diesem Thema sind wir immer bereit und von richtigen Argumenten lassen wir uns gerne überzeugen.
 
 ### Konkrete Praktiken mittels veränderten Konsum die Welt zu verändern - und deren Unzulänglichkeiten und Widersprüche
 
-Konzepte wie Fairtrade, regionales Einkaufen oder Dumpstern/Containern sollten aus Eurer Sicht in einem Text über Kritik der Konsumkritik nicht fehlen? Unsere Antwort: Die Argumente in diesem Texten sollten ausreichend sein um die Unzulänglichkeiten dieser Konsumpraktiken aufzuzeigen. Nichts desto trotz ist der Blick auf diese Praktiken kein Fehler: Denn zusätzlich zu ihren grundsätzlichen Problem - veränderter Konsum ändert nichts an den Gemeinheiten des kapitalistischen Alltags - haben die verschiedenen Konsumformen so ihre eigenen Tücken. Wer an einer Diskussion zu diesem Thema interessiert ist, empfehlen wir folgende unserer Texte
+Konzepte wie Fairtrade, regionales Einkaufen oder Dumpstern/Containern sollten aus Eurer Sicht in einem Text über Kritik der Konsumkritik nicht fehlen? Unsere Antwort: Die Argumente in diesem Texten sollten ausreichend sein um die Unzulänglichkeiten dieser Konsumpraktiken aufzuzeigen. Nichts desto trotz ist der Blick auf diese Praktiken kein Fehler: Denn zusätzlich zu ihren grundsätzlichem gemeinsamen Problem - veränderter Konsum ändert nichts an den Gemeinheiten des kapitalistischen Alltags - haben die verschiedenen Konsumformen so ihre eigenen Tücken. Wer an einer Diskussion zu diesem Thema interessiert ist, empfehlen wir folgende unserer Texte:
+
 * [Tiere essen?](https://geskrit.wordpress.com/texte/kaufen-gegen-den-kapitalismus/tiere-essen)
 * [Der Griff in die Mülltonne](https://geskrit.wordpress.com/texte/kaufen-gegen-den-kapitalismus/der-griff-in-die-mulltonne)
 
-Weiters haben wir uns auch im Text [Konsum als Persönlichkeitspflege](https://geskrit.wordpress.com/texte/kaufen-gegen-den-kapitalismus/der-griff-in-die-mulltonne/) mit dem Phänomen von Statussymbolen und Markenartikeln in dieser Gesellschaft beschäftigt. 
+Weiters haben wir uns im Text [Konsum als Persönlichkeitspflege](https://geskrit.wordpress.com/texte/kaufen-gegen-den-kapitalismus/der-griff-in-die-mulltonne/) mit dem Phänomen von Statussymbolen und Markenartikeln in dieser Gesellschaft beschäftigt. 
 
 ### Ausflug in die Schäden die durch den Profit verursacht werden: Wie wirkt sich der Zweck Profit aus auf...
 
