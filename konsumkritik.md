@@ -3,7 +3,7 @@ Aufgepasst: Begriffe wie Kapitalistin oder Profit sind oft moralisch aufgeladen,
 
 ### Einleitung
 
-Man hört es oft: Die Welt wäre ein besserer Ort, wenn die Leute nur richtig, weil bewusst, konsumieren würden. Egal ob immer mehr Lebensmittel mit viel kritisierten Technologien (Stichwort Genmanipulation) produziert werden Produkte unter verabscheuungswürdigen Bedingungen für Mensch und Tier entstehen oder eigentlich noch brauchbare Sachen einfach weggeworfen werden – für Kritikerinnen des Konsums liegt die Lösung nahe. Sie selbst und alle anderen sollen ethisch korrekt konsumieren. Dieser ethische Konsum kann dabei unterschiedlichste Formen annehmen. Kritische Konsumentinnen bevorzugen FairTrade Produkten, konsumieren ausschließlich regionale und/oder biologische Güter oder boykottieren gleich alle Waren eines Unternehmens. Bei dieser Art und Weise die Welt positiv verändern zu wollen, wird von einer Macht der Konsumentinnen ausgegangen.
+Man hört es oft: Die Welt wäre ein besserer Ort, wenn die Leute nur richtig, weil bewusst, konsumieren würden. Egal ob immer mehr Lebensmittel mit viel kritisierten Technologien (Stichwort Genmanipulation) produziert werden Produkte unter verabscheuungswürdigen Bedingungen für Mensch und Tier entstehen oder eigentlich noch brauchbare Sachen einfach weggeworfen werden – für Kritikerinnen des Konsums liegt die Lösung nahe. Sie selbst und alle anderen sollen ethisch korrekt konsumieren. Dieser ethische Konsum kann dabei unterschiedlichste Formen annehmen. Kritische Konsumentinnen bevorzugen Fairtrade Produkten, konsumieren ausschließlich regionale und/oder biologische Güter oder boykottieren gleich alle Waren eines Unternehmens. Bei dieser Art und Weise die Welt positiv verändern zu wollen, wird von einer Macht der Konsumentinnen ausgegangen.
 
 Dabei sehen wir ein Problem: Veränderter Konsum führt gar nicht zur Abschaffung der ganzen Misstände, diese haben ihren Grund woanders. Damit diese falschen Vorstellungen über den Konsum aus den Köpfen der Leute verschwinden und wir uns an die Beseitigung der wirklichen Gründe [^wirkliche_gruende] der Misstände machen können, haben wir diesen Text geschrieben. 
 
@@ -52,13 +52,37 @@ Da die Konsumkritikerinnen den Zweck, für den hier produziert wird, nämlich au
 
 Da dieser selbst auferlegte Verzicht auf Konsum nie zu dem Ergebnis führt, den sich die Kritikerinnen wünschen, treibt sie auch immer die Frage nach dem Grund für den ausbleibenden Erfolg um. Fündig werden sie schnell: Sie sehen die anderen Konsumentinnen, welche egoistisch, unethisch und unkritisch konsumieren als den Grund für diese unschöne Welt. Schuld an den vielen unangenehmen Dingen in dieser Gesellschaft sind laut ihnen dann auch nie die Unternehmen oder die Wirtschaftsweise selbst, sondern eben die Menschen, welche nicht korrekt konsumieren.
 
+### Konkrete Praktiken mittels veränderten Konsum die Welt zu verändern - und deren Unzulänglichkeiten und Widersprüche
+
+Um unsere Argumente und Punkte noch etwas zu verdeutlichen, wollen wir uns in diesem Abschnitt konkrete Konsumpraktiken genauer ansehen.
+
+#### Was ist Fairtrade?
+
+> Fairtrade verbindet Konsumentinnen und Konsumenten, Unternehmen und Produzentenorganisationen und verändert Handel(n) durch bessere Preise für Kleinbauernfamilien, sowie menschenwürdige Arbeitsbedingungen für Beschäftigte auf Plantagen in Entwicklungs- und Schwellenländern. ([*Fairtrade Deutschland - Was ist Fairtrade?*](https://www.fairtrade-deutschland.de/was-ist-fairtrade.html))
+
+Wie passt nun diese Selbstbeschreibung zu unserer Kritik der Konsumkritik? Der Appell zum Verzicht ist bei Fairtrade enthalten. Es geht um "bessere" Preise. Gemeint ist natürlich: Höhere Preise für die Konsumentin. Für sie soll der Kauf von Kaffeebohnen nicht nur das Bedürfnis nach Kaffee decken, sondern auch noch "menschenwürdiges" Produzieren ermöglichen.
+
+> Das Fairtrade-Siegel steht für fair angebaute und gehandelte Produkte: alle Zutaten eines Produktes, die unter Fairtrade-Bedingungen erhältlich sind, müssen Fairtrade-zertifiziert sein. [...] Dies ermöglicht den Kleinbauernkooperativen stabilere Preise sowie langfristigere Handelsbeziehungen. Sowohl Bäuerinnen und Bauern als auch Beschäftigte auf Plantagen erhalten eine zusätzliche Prämie für Gemeinschaftsprojekte. Die Standards enthalten darüber hinaus Kriterien zu demokratischen Organisationsstrukturen, Umweltschutz und sicheren Arbeitsbedingungen. ([*Fairtrade Deutschland - Fairtrade-Siegel*](https://www.fairtrade-deutschland.de/was-ist-fairtrade.html))
+
+Unternehmen die das Fairtrade Siegel tragen, verpflichten sich zu einer langen Liste von Dingen. Es soll "fair" bezahlt werden, "stabiliere Preise" sollen den Produzentinnen garantiert werden. Von sicheren Arbeitsbedingungen und Umweltschutz noch gar nicht erst gesprochen. All diese Dingen scheinen in einer kapitalistischen Produktion keine Selbstverständlichkeit zu sein. Erst dadurch, dass sicheres und angenehmes Arbeiten, Arbeit von der mensch Leben kann, eben keine Selbstverständlichkeit ist, ist solch ein Siegel notwendig.
+
+Anstatt aber eben den Profit an sich, dafür zu kritisieren, dass diese Selbstverständlichkeit nicht existiert, versuchen Konsumkritikerinnen diese Folgen der Profitmaximierung dadurch einzudämmen, indem sie selbst einen höheren Preis bezahlen.
+
+Fairtrade fängt sich dabei selbst einige eigentümliche Probleme ein:
+
+* Wie werden die Siegel vergeben? Es gibt auch Konkurrenz um diese Siegel (siehe Rainforest Alliance). Es gibt auch Fälschungen in dem Bereich.
+* Wer kann sich die Kosten für diese Siegel überhaupt zahlen? Welche Produzentinnen, können sich beispielsweise diese Unmweltauflagen leisten?
+* Nicht zuletzt: Kommt der freiwillig höher bezahlte Preis überhaubt bei denen an, für die es gedacht ist? Wer kontrolliert dies und wie?
+
+
+
 ### Fazit
 
 Zum Schluss noch ein Sprung an den Anfang: In der Einleitung haben wir versprochen, die wirklichen Gründe für all die Übel zu nennen, welche manchen Menschen so sauer aufstoßen, dass sie darüber zu Konsumkritikerinnen werden. Diese Gründe liegen in den zwei Widersprüchen, die wir herausgearbeitet haben:
-    
-  * Da Unternehmen Interesse an einem hohen Profit haben, ergibt sich daraus für die Menschen die in diesen arbeiten, ein möglichst geringer Lohn. 
+
+  * Da Unternehmen Interesse an einem hohen Profit haben, ergibt sich daraus für die Menschen die in diesen arbeiten, ein möglichst geringer Lohn.
   * Weiters sind ihre Arbeitsplätze so eingerichtet, dass sie für Stimmung, Gesundheit und oft das Leben eine Gefahr darstellen.
-  * Da Unternehmen Interesse an einem hohen Profit haben, ergibt sich daraus für die Umwelt, die als Grundlage und Stoff der Produktion dient, die Zerstörung: Böden und Gewässer werden verseucht, weil die Entsorgung in ihnen billiger ist als eine umweltfreundlichere. 
+  * Da Unternehmen Interesse an einem hohen Profit haben, ergibt sich daraus für die Umwelt, die als Grundlage und Stoff der Produktion dient, die Zerstörung: Böden und Gewässer werden verseucht, weil die Entsorgung in ihnen billiger ist als eine umweltfreundlichere.
   * Tiere werden möglichst billig, also grausam gehalten.
 
 Diese Übel werden jedoch nicht durch Kritik an der Art und Weise wie Menschen konsumieren aus der Welt geschafft. Das Appellieren an ethischen Konsum verändert nichts an den herrschenden Verhältnissen. Auch unsere vorgetragene Kritik am Konsum im Kapitalismus, schafft dessen Übel nicht ab. Nimmt man sie jedoch ernst und zieht aus ihr die praktischen Konsequenzen, ergibt sich ein ganz anderes Programm als Reformen, die den Kapitalismus auch nicht sympathischer und menschenfreundlicher machen: Notwendig ist das Abschaffen einer Wirtschaftsweise, die sich um Geldvermehrung dreht und das Schaffen einer, in der es um die Bedürfnisbefriedigung der Menschen geht.
@@ -72,7 +96,7 @@ Falls bei euch ein schlechtes Gefühl im Magen übrigbleibt, weil:
 
 dann [meldet euch](mailto:geskrit@riseup.net). Für Diskussionen zu diesem Thema sind wir immer bereit und von richtigen Argumenten lassen wir uns gerne überzeugen.
 
-### Konkrete Praktiken mittels veränderten Konsum die Welt zu verändern - und deren Unzulänglichkeiten und Widersprüche
+### Mehr zum Thema Konsum in der Gesellschaft?
 
 Konzepte wie Fairtrade, regionales Einkaufen oder Dumpstern/Containern sollten aus Eurer Sicht in einem Text über Kritik der Konsumkritik nicht fehlen? Unsere Antwort: Die Argumente in diesem Texten sollten ausreichend sein um die Unzulänglichkeiten dieser Konsumpraktiken aufzuzeigen. Nichts desto trotz ist der Blick auf diese Praktiken kein Fehler: Denn zusätzlich zu ihren grundsätzlichem gemeinsamen Problem - veränderter Konsum ändert nichts an den Gemeinheiten des kapitalistischen Alltags - haben die verschiedenen Konsumformen so ihre eigenen Tücken. Wer an einer Diskussion zu diesem Thema interessiert ist, empfehlen wir folgende unserer Texte:
 
