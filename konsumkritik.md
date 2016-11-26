@@ -5,7 +5,9 @@ Aufgepasst: Begriffe wie Kapitalistin oder Profit sind oft moralisch aufgeladen,
 
 Man hört es oft: Die Welt wäre ein besserer Ort, wenn die Leute nur richtig, weil bewusst, konsumieren würden. Egal ob immer mehr Lebensmittel mit viel kritisierten Technologien (Stichwort Genmanipulation) produziert werden Produkte unter verabscheuungswürdigen Bedingungen für Mensch und Tier entstehen oder eigentlich noch brauchbare Sachen einfach weggeworfen werden – für Kritikerinnen des Konsums liegt die Lösung nahe. Sie selbst und alle anderen sollen ethisch korrekt konsumieren. Dieser ethische Konsum kann dabei unterschiedlichste Formen annehmen. Kritische Konsumentinnen bevorzugen FairTrade Produkten, konsumieren ausschließlich regionale und/oder biologische Güter oder boykottieren gleich alle Waren eines Unternehmens. Bei dieser Art und Weise die Welt positiv verändern zu wollen, wird von einer Macht der Konsumentinnen ausgegangen.
 
-Dabei sehen wir ein Problem: Veränderter Konsum führt gar nicht zur Abschaffung der ganzen Misstände, diese haben ihren Grund woanders. Damit diese falschen Vorstellungen über den Konsum aus den Köpfen der Leute verschwinden und wir uns an die Beseitigung der wirklichen Gründe [^wirkliche_gruende] der Misstände machen können, haben wir diesen Text geschrieben.
+Dabei sehen wir ein Problem: Veränderter Konsum führt gar nicht zur Abschaffung der ganzen Misstände, diese haben ihren Grund woanders. Damit diese falschen Vorstellungen über den Konsum aus den Köpfen der Leute verschwinden und wir uns an die Beseitigung der wirklichen Gründe [^wirkliche_gruende] der Misstände machen können, haben wir diesen Text geschrieben. 
+
+Dieser Text stellt also keine Hilfe im täglichen Umgang mit Konsum da. Sein Ziel ist es, die Argumente von Konsumkritikerinnen nachzuvollziehen und an diesen Kritik zu üben.
 
 ### Konsum: Was soll das sein?
 
