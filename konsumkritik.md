@@ -48,6 +48,8 @@ So ist es beispielsweise bei Bio- oder Fairtradeprodukten so, dass diese generel
 
 Da die Konsumkritikerinnen den Zweck, für den hier produziert wird, nämlich aus Geld mehr Geld machen zu wollen, nicht akzeptieren als das was einer vernünftigen Bedürfnisbefriedigung im Weg steht, müssen sie sich also selber in ihren Bedürfnissen beschränken und/oder dasselbe von anderen verlangen.
 
+Da dieser selbst auferlegte Verzicht auf Konsum nie zu dem Ergebnis führt, den sich die Kritikerinnen wünschen, treibt sie auch immer die Frage nach dem Grund für den ausbleibenden Erfolg um. Fündig werden sie schnell: Sie sehen die anderen Konsumentinnen, welche egoistisch, unethisch und unkritisch konsumieren als den Grund für diese unschöne Welt. Schuld an den vielen unangenehmen Dingen in dieser Gesellschaft sind laut ihnen dann auch nie die Unternehmen oder die Wirtschaftsweise selbst, sondern eben die Menschen, welche nicht korrekt konsumieren.
+
 ### Fazit
 
 Zum Schluss noch ein Sprung an den Anfang: In der Einleitung haben wir versprochen, die wirklichen Gründe für all die Übel zu nennen, welche manchen Menschen so sauer aufstoßen, dass sie darüber zu Konsumkritikerinnen werden. Diese Gründe liegen in den zwei Widersprüchen, die wir herausgearbeitet haben:
@@ -62,9 +64,9 @@ Diese Übel werden jedoch nicht durch Kritik an der Art und Weise wie Menschen k
 Falls bei euch ein schlechtes Gefühl im Magen übrigbleibt, weil:
     
 
-* ihr doch ein paar gute Argumente für ethischen Konsum kennt,
-* ihr eine Spielart von ethischem Konsum kennt die ihr gut findet und die bei uns nicht vorkommt,
-* ihr sonst irgendwas kennt das für die Thematik wichtig ist aber hier nicht zu finden ist,
+* ihr doch ein paar gute Argumente für ethischen Konsum kennt
+* ihr eine Spielart von ethischem Konsum kennt, die ihr gut findet und bei der unsere Kritik nicht zutrifft
+* ihr sonst irgendwas kennt, dass für die Thematik wichtig ist, aber hier nicht zu finden ist
 
 dann [meldet euch](mailto:geskrit@riseup.net). Für Diskussionen zu diesem Thema sind wir immer bereit und von richtigen Argumenten lassen wir uns gerne überzeugen.
 
@@ -76,48 +78,6 @@ Konzepte wie Fairtrade, regionales Einkaufen oder Dumpstern/Containern sollten a
 * [Der Griff in die Mülltonne](https://geskrit.wordpress.com/texte/kaufen-gegen-den-kapitalismus/der-griff-in-die-mulltonne)
 
 Weiters haben wir uns im Text [Konsum als Persönlichkeitspflege](https://geskrit.wordpress.com/texte/kaufen-gegen-den-kapitalismus/der-griff-in-die-mulltonne/) mit dem Phänomen von Statussymbolen und Markenartikeln in dieser Gesellschaft beschäftigt. 
-
-### Ausflug in die Schäden die durch den Profit verursacht werden: Wie wirkt sich der Zweck Profit aus auf...
-
-Aus der Logik dieses Zweckes ergeben sich für alle von der Produktion betroffenen Gebiete Konsequenzen, die wir zuerst einmal festhalten wollen.
-
-#### ... Umwelt und Natur als Basis der Wirtschaft?
-
-Die Umwelt ist zuerst einmal die Bedingung dafür, dass man überhaupt konsumieren kann: irgendwoher müssen die Stoffe ja kommen, die mit Arbeit in nützliche Sachen umgewandelt werden können. Gleichzeitig ist sie die Umgebung, in der jeder Konsum und jede Lebensregung stattfindet: Deswegen ist es nützlich dass sie so gestaltet ist, dass sie dem Menschen möglichst wenig schadet.
-In der Logik des Profits allerdings liegt es, diese Bedingungen zu zerstören. So macht es für Fischereiunternehmen durchaus Sinn, Fischbestände so intensiv zu befischen dass nach ein paar Jahren keine Fische mehr vorhanden sind die man fischen kann, schließlich bedeutet in diesem Zeitraum jeder Fisch den man selbst fangen und verkaufen konnte mehr Gewinn[^ressourcen].  Bei nachwachsenden Ressourcen ist es also so, dass es in der Logik des Profits liegt sie zu [zerstören solange man Geld damit verdienen kann](http://www.zeit.de/wissen/umwelt/2016-01/ueberfischung-bedrohung-arten-fehler-angaben/komplettansicht). 
-
-Das gleiche trifft auch auf endliche Ressourcen zu. Bei diesen ist es aber generell so, dass jeder Konsum sie nach einer gewissen Zeit aufbrauchen würde. Helium ist z.B. ein Rohstoff der auf der Erde nur begrenzt vorhanden ist und nach jedem Kontakt mit der Atmosphäre in den Weltraum entschwindet und nur sehr langsam reproduziert wird. Helium wird für ganz verschiedene Zwecke gebraucht - von der Entdeckung von Lücken in industriellen System bis zum Aufblasen von Ballons - und wird dabei immer weniger. Nun ist es wiederum so, dass es für einen Ballonverkäufer jeder einzelne verkaufte Ballon Gewinn bedeutet, also seinen Profit steigert - auch wenn darüber das Helium verloren geht, welches für wichtigere Zwecke gebraucht wird. Auch hier liegt es also in der Logik des Profits, diese [Rohstoffquellen möglichst schnell und egal für welche Anwendung aufzubrauchen](http://www.spiegel.de/wissenschaft/natur/edelgas-nobelpreistraeger-warnt-vor-weltweitem-helium-mangel-a-713535.html). 
-
-Bei der Produktion entstehen Abfallprodukte, die teilweise für den Menschen in irgendeiner Weise schädlich sind, sei es direkt oder über den Umweg dass nützliche Natur dabei zerstört wird. Diese Abfallprodukte in einer Weise zu entsorgen, die schlechte Auswirkungen minimiert, kostet jedoch wiederum Geld. Geld, welches immer ein Abzug von dem Gewinn der Unternehmen ist. Es macht also für Unternehmen durchaus Sinn, Nervengifte wie z.B. Blei in Wasser zu leiten wenn sich damit Entsorgungskosten vermeiden lassen, wie es gerade in [Flint, Michigang geschah/geschieht](http://www.zeit.de/politik/2016-01/michigan-trinkwasser-blei-barack-obama-notstand).
-Was man also als Fazit festhalten kann ist: Der Zweck Profit vernichtet die Umwelt als Grundlage für Produktion und Konsumption.
-
-#### ...die Höhe des Lohns?
-
-Ein Unternehmen ganz ohne Mitarbeiterinnen? So etwas gibt es nicht. Warum auch? Irgendwer muss ja die Produkte herstellen, die für den Verkauf gedacht sind. Unangenehm für die Unternehmen ist dabei jedoch eines: Die Leute arbeiten nicht für umsonst - jeder muss ein Lohn ausgezahlt werden. Dieser Lohn ist immer ein Abzug von dem Gewinn des Unternehmens: Er ist ja nur eine Kost, die bei der Produktion der Güter, die verkauft werden anfällt. Die Geldmenge, die man also beim Verkauf erlöst, wird leidet immer darunter wieviel Lohn man dafür auszahlen musste. Deswegen liegt es in der Logik des Profits, wenig Lohn zu bezahlen.
-
-![Illustrierung wie ein höherer Lohn den Profit schmälert und umgekehrt](https://geskrit.files.wordpress.com/2015/03/img_20150329_173656.jpg)
-*Der Lohn ist Abzug vom Profit*
-
-Beispiele dafür kann man jeder Zeitung entnehmen: Ein Unternehmen, beispielsweise die Deutsche Post, gründet irgendein Subunternehmen wo [andere Verträge mit weniger Bezahlung](http://www.zeit.de/wirtschaft/unternehmen/2015-07/deutsche-post-streik-beendet-tarif-einigung) gelten. Dann werden viele Mitarbeiter vor die Wahl gestellt: Entweder dort für weniger Lohn arbeiten, oder gar nicht. [Unternehmen verlagern ihre Produktion in Länder](http://diepresse.com/home/wirtschaft/eastconomist/511450/Rumaenien_Zwolf-Stunden-am-Tag-fur-300-Euro), bei denen dieser Fakt schon im Namen steht: "Niedriglohnländer", einfach weil sie damit mehr verdienen.
-
-#### ...die Arbeitsplätze und wie dort gearbeitet werden muss?
-
-Aber nicht nur die Lohnhöhe ist etwas, was Arbeitnehmern zu schaffen macht. Ihre ganze Arbeitsumgebung wird von einem Unternehmen eingerichtet das an ihrem Arbeitsplatz nur interessiert ist inwiefern er Gewinn erwirtschaftet. Das hat verschiedene Auswirkungen auf die Einrichtung des Arbeitsplatzes:
-
-Die Maschinen, an denen Arbeiter arbeiten, werden vom Unternehmen eingekauft und eingesetzt. Dieses hat Interesse daran an ihnen möglichst viel zu verdienen. Für dieses Interesse sind Faktoren wichtig wie: Wie schnell kann eine Maschine etwas herstellen, wie lange hält sie, wie wenig Rohstoffe verbraucht sie dabei. All das ist für den Komfort und die Sicherheit von Arbeitern unwichtig bis abträglich: Je schneller eine Laufband eingestellt ist, desto stressiger und nervraubender ist die Arbeit. Gewisse Bewegungen die man an Maschinen machen kann, die am wenigsten Zeitverzögerung oder Anpassung der Maschine an den menschlichen Körper erfordern, was wiederum kosten würde, macht die Arbeiter kaputt: [Rückenprobleme etc](http://www.deinruecken.de/unternehmerportal/praeventionsmassnahmen/technische_massnahmen_/technische_massnahmen.jsp).
-
-Bei der Produktion wird außerdem oft mit Chemikalien oder anderen Stoffen hantiert, die für Menschen gefährlich sind. Für Unternehmen zählt bei derem Einsatz nur: Wie billig und effektiv sind sie? Dabei werden dann oft [Stoffe eingesetzt](https://ec.europa.eu/germany/news/kommission-will-schutz-vor-krebserregenden-chemikalien-am-arbeitsplatz-erh%C3%B6hen_de) die man ersetzen könnte, weil sie weniger kosten, die aber für Arbeiter eine gesundheitsgefährdung bedeuten. Beispielsweise Insektizide auf großen Farmen, oder Waschmittel in Wäschereien, die bei längerem Kontakt, also wenn man dort länger arbeitet, die Gesundheit der Arbeiter zerstören.
-
-Von der Arbeitsart an sich ist es so, dass je länger und intensiver gearbeitet wird, dass Unternehmen mehr Gewinn macht. Deswegen ist der Anspruch an die Arbeitnehmer auch immer, möglichst lange und intensiv zu arbeiten. So muss man schon vor der Arbeitszeit erscheinen um den Arbeitsplatz einzurichten, Pausen werden gestrichen oder gekürzt. [Überstunden werden gefordert aber nie abbezahlt](http://www.zeit.de/wirtschaft/2016-07/arbeitszeit-ueberstunden-arbeitnehmer-institut-fuer-arbeitsmarkt-berufsforschung), was Gleitzeitverträge oder ähnliches ermöglichen. Teilweise gibt es auch schon sogenannte [All-In-Verträge](https://www.arbeiterkammer.at/beratung/arbeitundrecht/Arbeitsvertaege/UnfaireKlauselninArbeitsvertraegen/All-in-Vertraege.html), wo die Arbeitszeit sowieso flexibel ist, man also immer soviel arbeitet wie das Unternehmen gerade für angemessen betrachtet (dreimal darfst du raten), aber immer gleich viel bezahlt bekommt.
-
-#### ... die hergestellten Produkte und Dienstleistungen?
-
-
-Das Interesse der Unternehmen Profit zu machen hat nicht erst bei der Qualität der Produkte eine Auswirkung. Es hat schon eine Bedeutung bei der Frage, welche Waren überhaupt produziert werden und welche Dienstleistungen angeboten werden. Bettelnde Menschen vor vollen Supermärkten macht es offensichtlich: Produziert wird nicht für alle Bedürfnisse die es in dieser Gesellschaft existieren. Produziert werden Produkte für Menschen die sich diese leisten können - also für kaufkräftige Bedürfnisse. Kann mit der Entwicklung eines Malariaimpfstopffs kein Geld verdient werden, so wird auch keiner entwickelt. Da müssen die Menschen in den sogenannten Entwicklungsländern eben warten bis die Malariamücke im Zuge der Erderwärmung auch in Europa angekommen ist. Auch bei Ebola zeigt sich: Solange es [nur Menschen ohne Geld trifft](http://www.huffingtonpost.de/katharina-grewe/entwicklungshilfe-wie-impfungen-kinderleben-retten_b_6455000.html), ist die Entwicklung eines Impfstoffs unternehmerisch unvernünftig.
-
-Wer kennt das nicht? Ein neues Gerät vom knappen Geld gekauft und kurz nach der Garantie verabschiedet sich das Ding ins Nirvana. Während einige von Pech sprechen, vermute andere Absicht dahinter: [Geplante Obsolszenz] (https://de.wikipedia.org/wiki/Geplante_Obsoleszenz) ist dabei das Schlagwort. Klingt kompliziert, soll aber nicht mehr heissen als: Die Herstellerin einer Ware produziert sie genau so, dass sie kurz nach der Garantie kapput geht.  Ob und wie oft solche Geschäftspraktiken vorkommen ist nicht bekannt. Aber eines ist klar: Von der Seite des Profits, ist solch ein Verhalten für ein Unternehmen vorteilhaft.
-
-Solche und ähnliche Phänomene gibt es viele. Das ist auch kein Zufall. Denn während sich Kundinnen zur Befriedigung ihrer Bedürfnisse billige und qualitative Waren wünschen, sehnen sich die Herstellerinnen nach dem teuren Verkauf von günstig produzierten - also meist qualitativ niedrigen - Produkten. Dieser Widerspruch der sich in jedem Kaufakt widerspiegelt, führt dann logischerweise auch dazu, dass es eigene Ministerien gibt, welche sich um den Schutz von Konsumentinnenrechten kümmern und es eine Vielzahl von Magazinen gibt, welche vor Fehlkäufen und unangenehmen Geschäftspraktiken warnen.
 
 ### Fußnoten:
 [^wirkliche_gruende]: Einige von Euch werden sicher einwerfen: *Wahrheit gibt es doch gar nicht. Es gibt doch unterschiedlichste Perspektiven.* Wir vertreten die Position, dass nicht jede Meinung gleich richtig ist. Es gibt richtige und falsche Erklärungen für Phänomene in dieser Welt. Mehr zu diesem Thema könnt Ihr in unserem Text [Jedem seine eigene Meinung?](https://geskrit.wordpress.com/2015/12/22/jedem-seine-eigne-meinung/) auf unserer Website lesen.
