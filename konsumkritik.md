@@ -24,11 +24,9 @@ Der Zweck der Unternehmen - aus Geld mehr Geld zu machen - ist allen bekannt. So
 
 Wenn Unternehmen bei Ausgaben an allen Ecken und Enden sparen und Leute sich zu Tode schuften müssen, so wirkt sich das positiv auf den Profit aus. Dies wird aber vom größten Teil der Bevölkerung nicht zum Anlass genommen, sich ablehnend zum Unternehmenszweck Profit zu stellen. Konsumkritikerinnnen machen etwas ganz anderes: Wenn Mensch und Natur übel mitgespielt wird, so ist laut den Kritikerinnen nicht der Profit der Kern des Übels.
 
-Der verantwortungsvolle Profit ist für sie ganz im Gegenteil ein Segen für die Menschheit: So zwingt er, laut ihnen, Unternehmen dazu, ihre Produktion auf die Bedürfnisse der Menschen auszurichten. So sieht dann die Welt der Kritikerinnen dann auch aus: Konsumentinnen sind die Herrscherinnen über die Produktion - sie entscheiden ja letztendlich, welchen Unternehmen sie ihr Geld überlassen.
-
 Wenn ein Unternehmen rote Zahlen schreibt und vom Konkurs bedroht ist, so sind Entlassungen für Konsumkritikerinnen nur nachvollziehbar - keinesfalls ein Vergehen gegen die Menschlichkeit. Gleiches gilt für technische Innovationen: Kein Arbeitsplatz der hier verloren geht, wird als Anlass genommen, sich diese Wirtschaftsweise genauer anzusehen. Wenn Unternehmen neben teuren und sicheren, auch billigere und dafür unsichere Autos bauen, so spricht das für diese Kritikerinnen nicht gegen den Zweck der Unternehmen.TODO: FUSSNOTE WARUM DAS GEGEN DEN ZWECL SPRECHEN SOLL Ganz im Gegenteil: Für sie zeigt dies, dass in dieser Wirtschaftsweise kein Geldbeutel - so klein er auch sein mag - von Unternehmen vergessen wird. Der so genannte "normale" Geschäftsverlauf mit all seinen Erfolgen und Misserfolgen ist also nicht das Ziel ihrer Kritik.
  
-### Was zuviel ist zuviel - vom verantwortlichen Wirtschaften zum üblen Ausbeuten
+### Was zuviel ist, ist zuviel - vom verantwortlichen Wirtschaften zum üblen Ausbeuten
 
 Stattdessen sehen Konsumkritikerinnen den Grund der ganzen Übel im übersteigertem Interesse an Profit. Dafür haben sie viele Namen: Profitmaximierung oder Gier sind zwei davon. Aber egal ob sie den Grund dafür im schlechten Charakter von einzelnen Kapitalistinnen, im egoistischen Verhalten von Konsumentinnen oder auch im Zwang der Konkurrenz von Unternehmen untereinander festmachen, eines haben all diese Erklärungen gemein. Sie machen eine Trennung auf zwischen Unternehmen, die Profit auf eine gerechte und nachhaltige Weise erwirtschaften und solchen, die für das Interesse des Profits alles opfern.
 
@@ -37,6 +35,8 @@ Diese Trennung ist zu kritisieren: Wie oben beschrieben, liegt es in der Logik d
 In all diesen Fällen ist es jedoch nicht der Unternehmenszweck, worüber sich die Konsumkritikerinnen aufregen, sondern die Maßlosigkeit mit der er verfolgt wird. Das Maß an Rücksicht, welches sie für notwendig halten, ist dabei einfach das, was sie als okay bewerten, was sie nicht aufregt. Dieses Maß lässt sich jedoch nicht an den ökonomischen Verhältnissen, also der Art und Weise wie in unserer Gesellschaft Wirtschaft getrieben wird, ablesen.
 
 ### Der Konsum als Zuckerbrot und Peitsche
+
+Der Profit ist für die Kritikerinnen also ein Segen für die Menschheit: So zwingt er, laut ihnen, Unternehmen dazu, ihre Produktion auf die Bedürfnisse der Menschen auszurichten. So sieht dann die Welt der Kritikerinnen dann auch aus: Sie sind die Herrscherinnen über die Produktion - sie entscheiden ja letztendlich, welchen Unternehmen sie ihr Geld überlassen.
 
 Wie kämpfen nun die Gegnerinnen der Maßlosigkeit gegen all die Ungerechtigkeiten dieser Welt? Sie nutzen den Profit - das um was es Unternehmen bei ihrer Geschäftstätigkeit geht - als Hebel. Sie nutzen ihn als Mittel Unternehmen zu bestrafen, welche sich schlecht verhalten und solche zu belohnen, welche gewissse willkürliche Standards einhalten. Bestraft werden Unternehmen durch Konsumboykott: Solange das Unternehmen sich in den Augen der Kritikerinnen unangemessen verhält, werden dort keine Waren mehr gekauft. Verantwortungsvolle Unternehmen wiederum werden mit einer Schar von loyalen Kundinnen belohnt, welche eifrig Werbung für diese machen und regelmässig Geld an sie abdrücken.
 
@@ -62,7 +62,7 @@ Um unsere Argumente und Punkte noch etwas zu verdeutlichen, wollen wir uns in di
 
 Wie passt nun diese Selbstbeschreibung zu unserer Kritik der Konsumkritik? Der Appell zum Verzicht ist bei Fairtrade enthalten. Es geht um "bessere" Preise. Gemeint ist natürlich: Höhere Preise für die Konsumentin. Für sie soll der Kauf von Kaffeebohnen nicht nur das Bedürfnis nach Kaffee decken, sondern auch noch "menschenwürdiges" Produzieren ermöglichen.
 
-> Das Fairtrade-Siegel steht für fair angebaute und gehandelte Produkte: alle Zutaten eines Produktes, die unter Fairtrade-Bedingungen erhältlich sind, müssen Fairtrade-zertifiziert sein. [...] Dies ermöglicht den Kleinbauernkooperativen stabilere Preise sowie langfristigere Handelsbeziehungen. Sowohl Bäuerinnen und Bauern als auch Beschäftigte auf Plantagen erhalten eine zusätzliche Prämie für Gemeinschaftsprojekte. Die Standards enthalten darüber hinaus Kriterien zu demokratischen Organisationsstrukturen, Umweltschutz und sicheren Arbeitsbedingungen. ([*Fairtrade Deutschland - Fairtrade-Siegel*](https://www.fairtrade-deutschland.de/was-ist-fairtrade.html))
+> Das Fairtrade-Siegel steht für fair angebaute und gehandelte Produkte: alle Zutaten eines Produktes, die unter Fairtrade-Bedingungen erhältlich sind, müssen Fairtrade-zertifiziert sein. [...] Dies ermöglicht den Kleinbauernkooperativen stabilere Preise sowie langfristigere Handelsbeziehungen. [...] Die Standards enthalten darüber hinaus Kriterien zu demokratischen Organisationsstrukturen, Umweltschutz und sicheren Arbeitsbedingungen. ([*Fairtrade Deutschland - Fairtrade-Siegel*](https://www.fairtrade-deutschland.de/was-ist-fairtrade.html))
 
 Unternehmen die das Fairtrade Siegel tragen, verpflichten sich zu einer langen Liste von Dingen. Es soll "fair" bezahlt werden, "stabiliere Preise" sollen den Produzentinnen garantiert werden. Von sicheren Arbeitsbedingungen und Umweltschutz noch gar nicht erst gesprochen. All diese Dingen scheinen in einer kapitalistischen Produktion keine Selbstverständlichkeit zu sein. Erst dadurch, dass sicheres und angenehmes Arbeiten, Arbeit von der mensch Leben kann, eben keine Selbstverständlichkeit ist, ist solch ein Siegel notwendig.
 
@@ -73,8 +73,16 @@ Fairtrade fängt sich dabei selbst einige eigentümliche Probleme ein:
 * Wie werden die Siegel vergeben? Es gibt auch Konkurrenz um diese Siegel (siehe Rainforest Alliance). Es gibt auch Fälschungen in dem Bereich.
 * Wer kann sich die Kosten für diese Siegel überhaupt zahlen? Welche Produzentinnen, können sich beispielsweise diese Unmweltauflagen leisten?
 * Nicht zuletzt: Kommt der freiwillig höher bezahlte Preis überhaubt bei denen an, für die es gedacht ist? Wer kontrolliert dies und wie?
+* Fairtrade Produkte sind im Vergleich zu herkömmlichen teuer. Konsumkritikerinnen beklagen doch gerade, dass ein großer Teil der Menschheit arm ist. Nur einige Lohnabhängige in so genannten westlichen Ländern, können sich diese Produkte leisten. Fairtrade kann also keinen massiven Einfluß auf den Handel haben.
 
+#### Konsumboykott
 
+Bei einem Konsumboykott wird einer bestimmten Ware oder gar einem ganzen Unternehmen das Konsumvertrauen entzogen. Dem Unternehmen fliesst durch den Konsum kein Geld mehr zu, weil die Konsumentinnen entweder bei der Konkurrenz einkaufen oder auf das Produkt ganz verzichten.
+
+Auch bei dieser Konsumpraxis gibt es einige Widersprüche
+
+* Wenn einem Unternehmen z.B. die rentable Nutzung von Regenwaldflecken durch den Boykott des Kaufes von Rindfleisch verunmöglicht wird, so bedeutet das noch lange nicht die Rettung der Umwelt: Jedes Flecken Land wird unter dem Blickwinkel der Rendite betrachtet. Möglicherweise wird das Land verkauft und Minen darauf gebaut.
+* Wenn die T-Shirt Produktion in einem Land boykottiert wird, um Unternehmen zu zwingen, dort die Arbeitsbedingungen zu verbessern, ist völlig offen was passiert. Möglicherweise wird dadurch die Textilindustrie in diesem Land unrentabel und es wird verstärkt in einem anderen Niedriglohnland produziert. [Ob den nun arbeitslosen Menschen damit geholfen ist?](http://www.zeit.de/lebensart/mode/2012-11/interview-verbraucher-faire-mode-bangladesch)  
 
 ### Fazit
 
@@ -107,8 +115,11 @@ Weiters haben wir uns im Text [Konsum als Persönlichkeitspflege](https://geskri
 
 ### Fußnoten:
 [^wirkliche_gruende]: Einige von Euch werden sicher einwerfen: *Wahrheit gibt es doch gar nicht. Es gibt doch unterschiedlichste Perspektiven.* Wir vertreten die Position, dass nicht jede Meinung gleich richtig ist. Es gibt richtige und falsche Erklärungen für Phänomene in dieser Welt. Mehr zu diesem Thema könnt Ihr in unserem Text [Jedem seine eigene Meinung?](https://geskrit.wordpress.com/2015/12/22/jedem-seine-eigne-meinung/) auf unserer Website lesen.
+
 [^unterschiede]: Damit soll nicht behauptet werden, dass sich das Verhalten von Unternehmen nicht unterscheidet. Es gibt Unternehmen die beispielsweise sehr intensiv die Möglichkeit von Niedriglohnländern nutzen, während andere hier eher zögerlich mitmachen. Andere wiederum verzichten ganz auf das Outsourcing der Produktion und Dienstleistungen und lassen sich dafür bejubeln. Es bleibt aber dabei: Vom Erfolg der Unternehmen in der Konkurrenz hängt ab, ob dessen Existenz gesichert ist. Ob das unterschiedliche Verhalten von Unternehmen nun aus dem Gewissen einzelner Chefinnen entsteht oder doch eher aus Marketinggründen spielt dabei keine Rolle. Kein Profit, keine Existenz für das Unternehmen. Je mehr Profit, umso erfolgreicher das Bestehen in der Konkurrenz.
+
 [^dienstleistungen]: Im Text wird ab jetzt nur noch von Produkten gesprochen, Dienstleistungen sind aber immer mitgemeint. Wenn Ihr der Meinung seid, dass die gleiche Behandlung von Produkten und Dienstleistungen ein Fehler ist, so meldet Euch.
+
 [^ressourcen]: Klar, diese Unternehmen könnten auch draufkommen dass es keinen Gewinn mit Fisch mehr gibt wenn es keinen Fisch mehr gibt. Allerdings ist das Bedürfnis nach Fisch selbst für das Unternehmen ja nur Mittel - gibt es diesen nicht mehr sucht man sich halt mit dem Geld das man erlöst hat ein anderes Produkt aus mit dem man Geld machen kann. Andererseits gibt es ja auch andere Fischereiunternehmen, von denen man getrost annehmen kann dass sie unverfangen weiterfischen wenn man selber Zwecks des Bestandserhalts ein wenig zurücksteckt. Also ist wieder jeder Fisch den man selber fangt und andere nicht ein Vorteil denen gegenüber, der einem dann vielleicht wenn die Bestände wirklich zurückgehen das Überleben sichert.
 
 
